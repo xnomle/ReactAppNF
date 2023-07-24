@@ -1,0 +1,12 @@
+import React from 'react';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App" style={{backgroundColor: '#D3D3D3', height: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
+      <h1>Hello World!</h1>
+    </div>
+  );
+}
+
+export default App;
